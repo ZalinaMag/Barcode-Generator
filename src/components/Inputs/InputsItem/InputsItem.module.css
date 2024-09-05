@@ -1,0 +1,32 @@
+.fieldsItem {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 11.26px 12px;
+  border-bottom: 1px solid #E7E8EB;
+}
+
+.icon {
+  display: inline-block;
+  width: 24px;
+  height: 24px;
+  border-radius: 4px;
+}
+
+.text {
+  font-family: "Roboto Flex", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #505E99;
+
+}
+
+.iconPlus {
+  margin-left: auto;
+  display: inline-block;
+  width: 24px;
+  height: 24px;
+}

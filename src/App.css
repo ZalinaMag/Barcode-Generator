@@ -1,0 +1,64 @@
+/* src/App.css */
+.app {
+  background-color: #f2f4f7;
+  display: flex;
+  flex-direction: row;
+  height: 100vh;
+  width: 100vw;
+  justify-content: flex-start;
+  align-items: flex-start;   
+}
+
+.body {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  flex-grow: 1;
+}
+
+.left-div,
+.right-div {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.preview-box,
+.empty-div {
+  flex-grow: 1;
+  background-color: #e4e4e4;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.inputs-container {
+  display: flex;
+  flex-grow: 1;
+  gap: 10px;
+}
+
+.fields-sidebar {
+  width: 200px;
+  background-color: #f4f4f4;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.fields-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px 0;
+  font-size: 16px;
+}
+
+.fields-item .icon {
+  font-size: 18px;
+}
+
+.fields-item .plus {
+  cursor: pointer;
+}
