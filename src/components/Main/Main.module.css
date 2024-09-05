@@ -10,30 +10,41 @@
   padding-top: 12px;
   padding-bottom: 12px;
   border-radius: 8px;
+  box-sizing: border-box;
 }
 
 .content {
   display: flex;
   flex-direction: row;
-  align-content: flex-start;
-  align-items: flex-start;
   width: 100%;
   border-radius: 12px;
   background-color: #ffffff;
+  overflow: hidden;
 }
 
 .previewBlock {
-  flex-basis: 50%;
+  flex-grow: 1;
+  min-width: 560px;
 }
 
 .settings {
   display: flex;
   flex-direction: row;
+  flex-shrink: 0;
 }
 
-.inputs, 
+.inputs {
+  flex: 1;
+  min-width: 200px;
+  max-width: 347px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+
 .list {
   width: 347px;
   display: flex;
   flex-direction: column;
+  box-sizing: border-box;
 }

@@ -4,10 +4,12 @@
   justify-content: flex-start;
   align-items: center;
   width: 100%;
+  max-width: 100%;
   padding-left: 24px;
   padding-right: 24px;
   padding-top: 12px;
   padding-bottom: 12px;
+  box-sizing: border-box;
 }
 
 .headline {
@@ -31,4 +33,5 @@
 
 .icon {
   border-radius: 8px;
+  flex-shrink: 0;
 }
