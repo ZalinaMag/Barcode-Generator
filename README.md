@@ -1,2 +1,3 @@
 # Barcode_Generator
-test project
+test project in React
+run with "npm start"
