@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/BarcodeGenerator/static/css/main.6dbbb67e.css",
-    "main.js": "/BarcodeGenerator/static/js/main.082939d7.js",
-    "static/js/453.419a5d54.chunk.js": "/BarcodeGenerator/static/js/453.419a5d54.chunk.js",
-    "static/media/icon7.svg": "/BarcodeGenerator/static/media/icon7.ab8718772f23b0627ebdbf0754e39dd6.svg",
-    "static/media/icon6.svg": "/BarcodeGenerator/static/media/icon6.eaef22494b76643472d93b16931f3583.svg",
-    "static/media/icon1.svg": "/BarcodeGenerator/static/media/icon1.e26f8c2f0d429ffd4c20a236e41c2204.svg",
-    "static/media/icon2.svg": "/BarcodeGenerator/static/media/icon2.31250d09523cf053159c58fc663b7724.svg",
-    "static/media/icon8.svg": "/BarcodeGenerator/static/media/icon8.436b7ff39aa52783e4b5df6630d11b77.svg",
-    "static/media/icon3.svg": "/BarcodeGenerator/static/media/icon3.2b9d1a5ec3cf39858b7de576f9afb121.svg",
-    "index.html": "/BarcodeGenerator/index.html",
-    "static/media/icon5.svg": "/BarcodeGenerator/static/media/icon5.912116e7d3f41a40f56e38d6fa3033f5.svg",
-    "static/media/icon4.svg": "/BarcodeGenerator/static/media/icon4.ca08d3e1e4c372a36026beff6cc3bb62.svg",
-    "static/media/profile.svg": "/BarcodeGenerator/static/media/profile.9aec65f87a9eb4004c7a121e757e55f6.svg",
-    "static/media/Button-icon.svg": "/BarcodeGenerator/static/media/Button-icon.c1db41d902f6c213f929df88dff1803f.svg",
-    "static/media/label.svg": "/BarcodeGenerator/static/media/label.9aa10e52e5145bdd90b1ce026c718e31.svg",
-    "static/media/DotsSixVertical.svg": "/BarcodeGenerator/static/media/DotsSixVertical.c8bd4881b16511a8192b42a76490b2c3.svg",
-    "static/media/plus.svg": "/BarcodeGenerator/static/media/plus.15a7cef4cf2803c1449e608ec97d375e.svg",
-    "main.6dbbb67e.css.map": "/BarcodeGenerator/static/css/main.6dbbb67e.css.map",
-    "main.082939d7.js.map": "/BarcodeGenerator/static/js/main.082939d7.js.map",
-    "453.419a5d54.chunk.js.map": "/BarcodeGenerator/static/js/453.419a5d54.chunk.js.map"
+    "main.css": "/Barcode_Generator/static/css/main.6dbbb67e.css",
+    "main.js": "/Barcode_Generator/static/js/main.a98a86bf.js",
+    "static/js/453.419a5d54.chunk.js": "/Barcode_Generator/static/js/453.419a5d54.chunk.js",
+    "static/media/icon7.svg": "/Barcode_Generator/static/media/icon7.ab8718772f23b0627ebdbf0754e39dd6.svg",
+    "static/media/icon6.svg": "/Barcode_Generator/static/media/icon6.eaef22494b76643472d93b16931f3583.svg",
+    "static/media/icon1.svg": "/Barcode_Generator/static/media/icon1.e26f8c2f0d429ffd4c20a236e41c2204.svg",
+    "static/media/icon2.svg": "/Barcode_Generator/static/media/icon2.31250d09523cf053159c58fc663b7724.svg",
+    "static/media/icon8.svg": "/Barcode_Generator/static/media/icon8.436b7ff39aa52783e4b5df6630d11b77.svg",
+    "static/media/icon3.svg": "/Barcode_Generator/static/media/icon3.2b9d1a5ec3cf39858b7de576f9afb121.svg",
+    "index.html": "/Barcode_Generator/index.html",
+    "static/media/icon5.svg": "/Barcode_Generator/static/media/icon5.912116e7d3f41a40f56e38d6fa3033f5.svg",
+    "static/media/icon4.svg": "/Barcode_Generator/static/media/icon4.ca08d3e1e4c372a36026beff6cc3bb62.svg",
+    "static/media/profile.svg": "/Barcode_Generator/static/media/profile.9aec65f87a9eb4004c7a121e757e55f6.svg",
+    "static/media/Button-icon.svg": "/Barcode_Generator/static/media/Button-icon.c1db41d902f6c213f929df88dff1803f.svg",
+    "static/media/label.svg": "/Barcode_Generator/static/media/label.9aa10e52e5145bdd90b1ce026c718e31.svg",
+    "static/media/DotsSixVertical.svg": "/Barcode_Generator/static/media/DotsSixVertical.c8bd4881b16511a8192b42a76490b2c3.svg",
+    "static/media/plus.svg": "/Barcode_Generator/static/media/plus.15a7cef4cf2803c1449e608ec97d375e.svg",
+    "main.6dbbb67e.css.map": "/Barcode_Generator/static/css/main.6dbbb67e.css.map",
+    "main.a98a86bf.js.map": "/Barcode_Generator/static/js/main.a98a86bf.js.map",
+    "453.419a5d54.chunk.js.map": "/Barcode_Generator/static/js/453.419a5d54.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6dbbb67e.css",
-    "static/js/main.082939d7.js"
+    "static/js/main.a98a86bf.js"
   ]
 }
