@@ -1,0 +1,17 @@
+.sandwich {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 8px;
+  gap: 8px;
+}
+
+.navItem {
+  padding-left: 12px;
+  padding-right: 12px;
+  height: 48px;
+  border-radius: 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

@@ -1,0 +1,21 @@
+.navstack {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start; 
+  padding: 8px;
+}
+
+.navItem {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;  
+  padding: 12px;
+  border-radius: 8px;
+}
+
+.icon {
+  width: 24px;
+  height: 24px;
+}

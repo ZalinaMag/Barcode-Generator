@@ -1,0 +1,39 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  align-content: flex-start;
+  align-items: flex-start;
+  width: 100%;
+  gap: 24px;
+  padding-left: 24px;
+  padding-right: 24px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  border-radius: 8px;
+}
+
+.content {
+  display: flex;
+  flex-direction: row;
+  align-content: flex-start;
+  align-items: flex-start;
+  width: 100%;
+  border-radius: 12px;
+  background-color: #ffffff;
+}
+
+.previewBlock {
+  flex-basis: 50%;
+}
+
+.settings {
+  display: flex;
+  flex-direction: row;
+}
+
+.inputs, 
+.list {
+  width: 347px;
+  display: flex;
+  flex-direction: column;
+}

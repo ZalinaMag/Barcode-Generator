@@ -1,0 +1,17 @@
+.profile {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start; 
+  padding: 8px;
+  gap: 10px;
+}
+
+.navItem {
+  padding-left: 12px;
+  padding-right: 12px;
+  height: 48px;
+  border-radius: 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
